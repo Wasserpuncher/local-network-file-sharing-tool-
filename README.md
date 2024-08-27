@@ -19,7 +19,7 @@ The Local Network File Sharing Tool is a simple application that allows users to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/local-network-file-sharing-tool.git
+   git clone https://github.com/Wasserpuncher/local-network-file-sharing-tool.git
    cd local-network-file-sharing-tool
 No additional dependencies are required, as the socket library is included with Python.
 Usage
